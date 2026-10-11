@@ -1,0 +1,1 @@
+[["until","document.querySelector('[data-readout]').textContent.includes('TurboFan')",15000],["wait",900],["shot","shots/turbofan.png"],["click",null,0.5,0.5],["sheet","shots/deopt.png",120,8,null,0.6]]
